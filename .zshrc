@@ -25,6 +25,8 @@ ZSH_THEME="robbyrussell"
 alias dps="docker ps"
 alias k="kubectl"
 alias python="python3"
+alias ads="azuredatastudio"
+alias gpom="git push -u origin main"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
